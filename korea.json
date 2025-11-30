@@ -2532,5 +2532,563 @@
     }
   ]
 }
+      "itinerary": [
+      {
+  "api_version": "1.0",
+  "source": "Inspired by VisitKorea Official Travel Planner",
+  "total_count": 120,
+  "itineraries": [
+    {
+      "id": "seoul_1",
+      "title": "Best of Seoul in 7 Days – First Timer Classic",
+      "city": "Seoul",
+      "category": "7-day",
+      "description": "The ultimate week-long itinerary: palaces, villages markets Han River K-beauty night views.",
+      "duration": "7 Days 6 Nights",
+      "day_detail": "Day 1: Arrival Myeongdong N Seoul Tower\nDay 2: Gyeongbokgung (hanbok) Bukchon Insadong\nDay 3: Changdeokgung Secret Garden Jongmyo\nDay 4: DMZ Tour Hongdae night\nDay 5: Gangnam COEX Starfield Bongeunsa\nDay 6: Han River cruise Itaewon Dongdaemun\nDay 7: Namsan Hanok Namdaemun Departure",
+      "price_range": "1,500,000–2,800,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/seoul_7days_classic.jpg",
+      "specialty": "Palaces · Hanok · Shopping · K-pop"
+    },
+    {
+      "id": "seoul_2",
+      "title": "Seoul Highlights in 5 Days",
+      "city": "Seoul",
+      "category": "5-day",
+      "description": "Perfect mid-length trip for busy travelers.",
+      "duration": "5 Days 4 Nights",
+      "day_detail": "Day 1: Arrival Myeongdong night market\nDay 2: Gyeongbokgung Bukchon Insadong\nDay 3: Changdeokgung Hongdae street performances\nDay 4: Gangnam COEX Lotte World Tower\nDay 5: N Seoul Tower shopping departure",
+      "price_range": "1,100,000–2,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/seoul_5days.jpg",
+      "specialty": "Best seller · Balanced"
+    },
+    {
+      "id": "seoul_3",
+      "title": "Seoul Weekend Escape 3 Days",
+      "city": "Seoul",
+      "category": "3-day",
+      "description": "Friday night to Sunday – ideal for short holiday.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1 (Fri): Arrival Hongdae night life\nDay 2 (Sat): Gyeongbokgung Insadong Myeongdong\nDay 3 (Sun): N Seoul Tower Gangnam departure",
+      "price_range": "700,000–1,300,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/seoul_weekend.jpg",
+      "specialty": "Weekend · Quick getaway"
+    },
+    {
+      "id": "seoul_4",
+      "title": "Seoul K-Pop & Idol Fan 4 Days",
+      "city": "Seoul",
+      "category": "4-day",
+      "description": "Music shows, company buildings, dance classes, idol cafes.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1: SMTOWN HYBE Insight\nDay 2: Music shows (pre-record) Hongdae busking\nDay 3: Dance academy + Gangnam idol shops\nDay 4: K-Star Road shopping departure",
+      "price_range": "1,000,000–1,800,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/seoul_kpop_4d.jpg",
+      "specialty": "K-pop · Dance · Hallyu"
+    },
+    {
+      "id": "seoul_5",
+      "title": "Seoul Luxury & Michelin 5 Days",
+      "city": "Seoul",
+      "category": "5-day luxury",
+      "description": "5-star hotels, 3-Michelin-star dining, private tours.",
+      "duration": "5 Days 4 Nights",
+      "day_detail": "Day 1: Four Seasons check-in Myeongdong shopping\nDay 2: Private palace tour Jungsik dinner\nDay 3: Gangnam luxury street spa day\nDay 4: Han River private yacht Lotte Tower\nDay 5: Duty-free departure",
+      "price_range": "5,000,000+ KRW",
+      "image": "https://english.visitkorea.or.kr/image/seoul_luxury.jpg",
+      "specialty": "Luxury · Michelin"
+    },
+
+    // INCHEON
+    {
+      "id": "incheon_1",
+      "title": "Incheon Long Layover 2 Days 1 Night",
+      "city": "Incheon",
+      "category": "2-day",
+      "description": "Best 40-hour+ layover plan with free transit hotel possible.",
+      "duration": "2 Days 1 Night",
+      "day_detail": "Day 1: ICN → Paradise City/Wonderbox → Chinatown dinner\nDay 2: Songdo Central Park → Wolmido → back to airport",
+      "price_range": "500,000–1,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/incheon_layover.jpg",
+      "specialty": "Layover · Transit"
+    },
+    {
+      "id": "incheon_2",
+      "title": "Incheon Islands & Beach 4 Days",
+      "city": "Incheon",
+      "category": "4-day",
+      "description": "Ganghwa, Muui, Eurwangni beaches & history.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1: Chinatown & Wolmido\nDay 2: Ganghwa Island UNESCO dolmens\nDay 3: Muui-do beach\nDay 4: Eurwangni sunset → departure",
+      "price_range": "800,000–1,500,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/incheon_island.jpg",
+      "specialty": "Beach · History"
+    },
+    {
+      "id": "incheon_3",
+      "title": "Songdo Smart City 3 Days",
+      "city": "Incheon",
+      "category": "3-day",
+      "description": "Futuristic city experience with canal walks and modern architecture.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Central Park boat\nDay 2: G-Tower, Canal Walk\nDay 3: Hyundai Outlet → departure",
+      "price_range": "700,000–1,200,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/songdo_3d.jpg",
+      "specialty": "Modern · Shopping"
+    },
+
+    // CHEONGJU
+    {
+      "id": "cheongju_1",
+      "title": "Cheongju Cultural Weekend 3 Days",
+      "city": "Cheongju",
+      "category": "3-day",
+      "description": "Jikji, fortress, makgeolli, presidential villa.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Cheongnamdae\nDay 2: Sangdang Fortress + Jikji Museum\nDay 3: Local market + departure",
+      "price_range": "500,000–900,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/cheongju_3d.jpg",
+      "specialty": "History · Makgeolli"
+    },
+    {
+      "id": "cheongju_2",
+      "title": "Cheongju Quick Stop 2 Days",
+      "city": "Cheongju",
+      "category": "2-day",
+      "description": "Ideal when passing through central Korea.",
+      "duration": "2 Days 1 Night",
+      "day_detail": "Day 1: Jikji Museum + Sangdang Sanseong\nDay 2: Cheongju National Museum → departure",
+      "price_range": "350,000–600,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/cheongju_2d.jpg",
+      "specialty": "Quick culture"
+    },
+
+    // SEJONG
+    {
+      "id": "sejong_1",
+      "title": "Sejong Government City & Nature 2 Days",
+      "city": "Sejong",
+      "category": "2-day",
+      "description": "Modern administrative capital + lake park.",
+      "duration": "2 Days 1 Night",
+      "day_detail": "Day 1: Government Complex tour + Lake Park\nDay 2: Geumgang River bike → departure",
+      "price_range": "400,000–700,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/sejong_2d.jpg",
+      "specialty": "Modern city · Cycling"
+    },
+
+    // SUWON
+    {
+      "id": "suwon_1",
+      "title": "Suwon Hwaseong Fortress 2 Days",
+      "city": "city": "Suwon",
+      "category": "2-day",
+      "description": "UNESCO fortress, Korean Folk Village, chicken street.",
+      "duration": "2 Days 1 Night",
+      "day_detail": "Day 1: Hwaseong Fortress wall walk + night light-up\nDay 2: Korean Folk Village → Suwon chicken street",
+      "price_range": "450,000–800,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/suwon_2d.jpg",
+      "specialty": "UNESCO · Food"
+    },
+    {
+      "id": "suwon_2",
+      "title": "Suwon 1-Day Trip from Seoul",
+      "city": "Suwon",
+      "category": "1-day",
+      "description": "Easy day trip from Seoul by subway/KTX.",
+      "duration": "1 Day",
+      "day_detail": "Morning: Hwaseong Fortress → Lunch chicken street → Afternoon Folk Village → Evening back to Seoul",
+      "price_range": "150,000–300,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/suwon_1day.jpg",
+      "specialty": "Day trip"
+    },
+
+    // GANGNEUNG
+    {
+      "id": "gangneung_1",
+      "title": "Gangneung Beach & Coffee 4 Days",
+      "city": "Gangneung",
+      "category": "4-day",
+      "description": "Anmok Coffee Street, beaches, pine forest, terrace cafes.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1: Jeongdongjin sunrise + Coffee Street\nDay 2: Gyeongpo Beach + lake\nDay 3: Ojukheon + pine forest\nDay 4: Haslla Art World → departure",
+      "price_range": "800,000–1,500,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/gangneung_4d.jpg",
+      "specialty": "Coffee street · Beach"
+    },
+    {
+      "id": "gangneung_2",
+      "title": "Gangneung Winter Surf & Snow 5 Days",
+      "city": "Gangneung",
+      "category": "5-day winter",
+      "description": "Surfing in winter + nearby ski resorts.",
+      "duration": "5 Days 4 Nights",
+      "day_detail": "Day 1–2: Surfing + Coffee Street\nDay 3–4: High1 or Yongpyong ski day trip\nDay 5: Departure",
+      "price_range": "1,200,000–2,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/gangneung_winter.jpg",
+      "specialty": "Surf · Ski"
+    },
+
+    // ANDONG
+    {
+      "id": "andong_1",
+      "title": "Andong Hahoe Village 3 Days",
+      "city": "Andong",
+      "category": "3-day",
+      "description": "UNESCO Hahoe Folk Village + mask festival + jjimdak.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Hahoe Village stay in hanok\nDay 2: Mask museum + traditional performance\nDay 3: Andong jjimdak street → departure",
+      "price_range": "600,000–1,100,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/andong_3d.jpg",
+      "specialty": "UNESCO · Hanok stay"
+    },
+    {
+      "id": "andong_2",
+      "title": "Andong 2-Day Cultural Escape",
+      "city": "Andong",
+      "category": "2-day",
+      "description": "Quick but deep cultural experience.",
+      "duration": "2 Days 1 Night",
+      "day_detail": "Day 1: Hahoe Village + mask dance\nDay 2: Dosan Seowon → departure",
+      "price_range": "450,000–800,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/andong_2d.jpg",
+      "specialty": "Culture"
+    },
+
+    // GONGJU
+    {
+      "id": "gongju_1",
+      "title": "Gongju Baekje History 2 Days",
+      "city": "Gongju",
+      "category": "2-day",
+      "description": "Tomb of King Muryeong, Gongsanseong Fortress.",
+      "duration": "2 Days 1 Night",
+      "day_detail": "Day 1: Royal Tombs + National Museum\nDay 2: Gongsanseong Fortress → departure",
+      "price_range": "400,000–700,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/gongju_2d.jpg",
+      "specialty": "Baekje · History"
+    },
+    {
+      "id": "gongju_2",
+      "title": "Gongju & Buyeo Baekje 3 Days",
+      "city": "Gongju",
+      "category": "3-day",
+      "description": "Combine two Baekje capitals.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Gongju tombs & fortress\nDay 2: Move to Buyeo → Busosanseong\nDay 3: Nakhwaam Rock → departure",
+      "price_range": "600,000–1,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/gongju_buyeo.jpg",
+      "specialty": "Ancient capitals"
+    },
+
+    // DAECHON (BORYEONG)
+    {
+      "id": "daechon_1",
+      "title": "Daechon Mud Festival 4 Days (July only)",
+      "city": "Daechon",
+      "category": "4-day festival",
+      "description": "World famous Boryeong Mud Festival + beach.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1–3: Mud slides, mud prison, concerts\nDay 4: Relax on beach → departure",
+      "price_range": "700,000–1,300,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/mud_festival.jpg",
+      "specialty": "Festival · Beach"
+    },
+    {
+      "id": "daechon_2",
+      "title": "Daechon Beach Weekend 3 Days",
+      "city": "Daechon",
+      "category": "3-day",
+      "description": "Summer beach getaway from Seoul.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Arrive & beach\nDay 2: Water sports & seafood\nDay 3: Sunrise & departure",
+      "price_range": "500,000–900,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/daechon_beach.jpg",
+      "specialty": "Summer"
+    },
+
+    // DAEGU
+    {
+      "id": "daegu_1",
+      "title": "Daegu City & Fashion 4 Days",
+      "city": "Daegu",
+      "category": "4-day",
+      "description": "Dongseong-ro, Seomun Market, herb hills.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1: Dongseong-ro shopping\nDay 2: Seomun Night Market\nDay 3: Daegu Tower + herb hill\nDay 4: Departure",
+      "price_range": "700,000–1,300,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/daegu_4d.jpg",
+      "specialty": "Shopping · Night market"
+    },
+    {
+      "id": "daegu_2",
+      "title": "Daegu 3-Day Food & Culture",
+      "city": "Daegu",
+      "category": "3-day",
+      "description": "Makchang alley, jjimgalbi, modern culture street.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Makchang alley\nDay 2: Modern Culture Street + Kim Kwangseok Road\nDay 3: Seomun Market → departure",
+      "price_range": "600,000–1,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/daegu_food.jpg",
+      "specialty": "Food trip"
+    },
+    {
+      "id": "daegu_3",
+      "title": "Daegu 1-Day Trip",
+      "city": "Daegu",
+      "category": "1-day",
+      "description": "From Seoul/Busan by KTX.",
+      "duration": "1 Day",
+      "day_detail": "Morning KTX → Seomun Market lunch → Dongseong-ro → 83 Tower → evening KTX back",
+      "price_range": "200,000–400,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/daegu_1day.jpg",
+      "specialty": "Day trip"
+    },
+    {
+      "id": "pohang_1",
+      "title": "Pohang Coastal 4 Days",
+      "city": "Pohang",
+      "category": "4-day",
+      "description": "Homigot Sunrise, Guryongpo, Yeongildae Beach.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1: Homigot Hand sunrise\nDay 2: Guryongpo seafood\nDay 3: Yeongildae Beach\nDay 4: Space Walk → departure",
+      "price_range": "800,000–1,400,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/pohang_4d.jpg",
+      "specialty": "Sunrise · Seafood"
+    },
+    {
+      "id": "pohang_2",
+      "title": "Pohang 3-Day Quick",
+      "city": "Pohang",
+      "category": "3-day",
+      "description": "Sunrise + seafood + modern art.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Homigot\nDay 2: Guryongpo + seafood market\nDay 3: Space Walk → departure",
+      "price_range": "600,000–1,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/pohang_3d.jpg",
+      "specialty": "Coastal"
+    },
+
+    // GYEONGJU
+    {
+      "id": "gyeongju_1",
+      "title": "Gyeongju UNESCO 5 Days",
+      "city": "Gyeongju",
+      "category": "5-day",
+      "description": "Full Silla Kingdom experience with Bulguksa, Seokguram, Anapji Pond.",
+      "duration": "5 Days 4 Nights",
+      "day_detail": "Day 1: Bulguksa & Seokguram\nDay 2: Daereungwon tombs\nDay 3: Anapji Pond night\nDay 4: Cheomseongdae + Wolseong\nDay 5: Departure",
+      "price_range": "900,000–1,600,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/gyeongju_5d.jpg",
+      "specialty": "UNESCO · Silla"
+    },
+    {
+      "id": "gyeongju_2",
+      "title": "Gyeongju 3-Day Highlights",
+      "city": "Gyeongju",
+      "category": "3-day",
+      "description": "Best of Gyeongju in short time.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Bulguksa & Seokguram\nDay 2: Daereungwon + Cheomseongdae\nDay 3: Anapji Pond night → departure",
+      "price_range": "600,000–1,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/gyeongju_3d.jpg",
+      "specialty": "UNESCO"
+    },
+    {
+      "id": "gyeongju_3",
+      "title": "Gyeongju 1-Day from Busan/Daegu",
+      "city": "Gyeongju",
+      "category": "1-day",
+      "description": "Popular day trip route.",
+      "duration": "1 Day",
+      "day_detail": "Morning: Bulguksa → Lunch → Daereungwon → Anapji night → back",
+      "price_range": "250,000–450,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/gyeongju_1day.jpg",
+      "specialty": "Day trip"
+    },
+    {
+      "id": "jeonju_1",
+      "title": "Jeonju Hanok Village 4 Days",
+      "city": "Jeonju",
+      "category": "4-day",
+      "description": "Hanok stay, bibimbap, traditional culture experience.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1: Hanok Village stay + hanbok rental\nDay 2: Jeonju Hyanggyo + Gyeonggijeon\nDay 3: Nambu Market + makgeolli alley\nDay 4: Omokdae → departure",
+      "price_range": "800,000–1,400,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/jeonju_4d.jpg",
+      "specialty": "Hanok · Food capital"
+    },
+    {
+      "id": "jeonju_2",
+      "title": "Jeonju Food & Culture 3 Days",
+      "city": "Jeonju",
+      "category": "3-day",
+      "description": "UNESCO Creative City of Gastronomy.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Hanok Village + bibimbap\nDay 2: Nambu Market food tour\nDay 3: Hanji museum → departure",
+      "price_range": "600,000–1,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/jeonju_food.jpg",
+      "specialty": "Food"
+    },
+    {
+      "id": "jeonju_3",
+      "title": "Jeonju 2-Day Weekend",
+      "city": "Jeonju",
+      "category": "2-day",
+      "description": "Quick hanok & food getaway.",
+      "duration": "2 Days 1 Night",
+      "day_detail": "Day 1: Hanok stay + night market\nDay 2: Bibimbap street → departure",
+      "price_range": "450,000–800,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/jeonju_weekend.jpg",
+      "specialty": "Weekend"
+    },
+
+    // ULSAN
+    {
+      "id": "ulsan_1",
+      "title": "Ulsan Coastal & Industrial 3 Days",
+      "city": "Ulsan",
+      "category": "3-day",
+      "description": "Whale culture, beaches, shipyard tour.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Jangsaengpo whale museum\nDay 2: Daewangam Park\nDay 3: Hyundai shipyard tour → departure",
+      "price_range": "600,000–1,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/ulsan_3d.jpg",
+      "specialty": "Whale · Industry"
+    },
+    {
+      "id": "ulsan_2",
+      "title": "Ulsan 2-Day Quick",
+      "city": "Ulsan",
+      "category": "2-day",
+      "description": "For KTX visitors.",
+      "duration": "2 Days 1 Night",
+      "day_detail": "Day 1: Whale museum + Daewangam\nDay 2: Ilsan Beach → departure",
+      "price_range": "400,000–700,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/ulsan_2d.jpg",
+      "specialty": "Coastal"
+    },
+    {
+      "id": "busan_1",
+      "title": "Busan Beach & City 7 Days",
+      "city": "Busan",
+      "category": "7-day",
+      "description": "Full week covering beaches, markets, temples, islands.",
+      "duration": "7 Days 6 Nights",
+      "day_detail": "Day 1: Haeundae Beach\nDay 2: Gamcheon Culture Village\nDay 3: Jagalchi + BIFF\nDay 4: Beomeosa Temple\nDay 5: Taejongdae\nDay 6: Oryukdo Skywalk\nDay 7: Departure",
+      "price_range": "1,500,000–2,800,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/busan_7d.jpg",
+      "specialty": "Beach · Culture"
+    },
+    {
+      "id": "busan_2",
+      "title": "Busan Highlights 5 Days",
+      "city": "Busan",
+      "category": "5-day",
+      "description": "Best seller for first visit.",
+      "duration": "5 Days 4 Nights",
+      "day_detail": "Day 1: Haeundae\nDay 2: Gamcheon + Yongdusan\nDay 3: Jagalchi + BIFF\nDay 4: Haedong Yonggungsa\nDay 5: Departure",
+      "price_range": "1,200,000–2,200,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/busan_5d.jpg",
+      "specialty": "Best seller"
+    },
+    {
+      "id": "busan_3",
+      "title": "Busan Weekend 3 Days",
+      "city": "Busan",
+      "category": "3-day",
+      "description": "Friday–Sunday beach trip.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Haeundae night\nDay 2: Gamcheon + Jagalchi\nDay 3: Haedong Yonggungsa → departure",
+      "price_range": "700,000–1,300,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/busan_weekend.jpg",
+      "specialty": "Weekend"
+    },
+    {
+      "id": "busan_4",
+      "title": "Busan Luxury Beach 4 Days",
+      "city": "Busan",
+      "category": "4-day luxury",
+      "description": "Park Hyatt / Signiel + yacht + spa.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1–3: Haeundae luxury stay + spa\nDay 4: Yacht cruise → departure",
+      "price_range": "3,000,000+ KRW",
+      "image": "https://english.visitkorea.or.kr/image/busan_luxury.jpg",
+      "specialty": "Luxury"
+    },
+    {
+      "id": "tongyeong_1",
+      "title": "Tongyeong Island Hopping 5 Days",
+      "city": "Tongyeong",
+      "category": "5-day",
+      "description": "Cable car, islands, seafood, murals.",
+      "duration": "5 Days 4 Nights",
+      "day_detail": "Day 1: Dongpirang murals\nDay 2: Hallyeosudo cable car\nDay 3–4: Island hopping (Bijindo, Somaemuldo)\nDay 5: Departure",
+      "price_range": "1,000,000–1,800,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/tongyeong_5d.jpg",
+      "specialty": "Island"
+    },
+    {
+      "id": "tongyeong_2",
+      "title": "Tongyeong 3-Day Weekend",
+      "city": "Tongyeong",
+      "category": "3-day",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Cable car + murals\nDay 2: Seafood market\nDay 3: Departure",
+      "price_range": "600,000–1,000,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/tongyeong_weekend.jpg",
+      "specialty": "Weekend"
+    },
+
+    {
+      "id": "yeosu_1",
+      "title": "title": "Yeosu Night Sea & Islands 5 Days",
+      "city": "Yeosu",
+      "category": "5-day",
+      "description": "Night sea light festival, cable car, islands.",
+      "duration": "5 Days 4 Nights",
+      "day_detail": "Day 1: Night sea walk\nDay 2: Dolsan Bridge + cable car\nDay 3–4: Island hopping\nDay 5: Departure",
+      "price_range": "1,000,000–1,800,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/yeosu_5d.jpg",
+      "specialty": "Night view · Island"
+    },
+    {
+      "id": "yeosu_2",
+      "title": "Yeosu Romantic 3 Days",
+      "city": "Yeosu",
+      "category": "3-day",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Night sea + aquarium\nDay 2: Odongdo + cable car\nDay 3: Departure",
+      "price_range": "600,000–1,100,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/yeosu_romantic.jpg",
+      "specialty": "Couple"
+    },
+
+    {
+      "id": "mokpo_1",
+      "title": "Mokpo Seafood & Islands 4 Days",
+      "city": "Mokpo",
+      "category": "4-day",
+      "description": "1004 islands, seafood, cable car.",
+      "duration": "4 Days 3 Nights",
+      "day_detail": "Day 1: Yudalsan + night food\nDay 2: Gohado island\nDay 3: Seafood street\nDay 4: Cable car → departure",
+      "price_range": "800,000–1,500,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/mokpo_4d.jpg",
+      "specialty": "Seafood · Island"
+    },
+    {
+      "id": "mokpo_2",
+      "title": "Mokpo 3-Day Weekend + Jeju Ferry",
+      "city": "Mokpo",
+      "category": "3-day",
+      "description": "Weekend + option to take ferry to Jeju.",
+      "duration": "3 Days 2 Nights",
+      "day_detail": "Day 1: Seafood night market\nDay 2: Yudalsan + cable car\nDay 3: Morning ferry to Jeju or departure",
+      "price_range": "600,000–1,100,000 KRW",
+      "image": "https://english.visitkorea.or.kr/image/mokpo_weekend.jpg",
+      "specialty": "Seafood · Ferry"
+    }
+  ]
+}
    
     
