@@ -600,8 +600,7 @@
     }
   ]
 }
-
-  "foods": [
+ "foods": [
     {
   "api_version": "1.0",
   "source": "Inspired by VisitKorea Regional Specialties (menuSn=181)",
