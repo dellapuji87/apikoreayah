@@ -1914,7 +1914,7 @@
       "city": "Seoul",
       "category": "taxi",
       "description": "Luxury van taxi from Incheon Airport to anywhere in Seoul (fixed rate).",
-      "address": "address": "Incheon Airport → Seoul citywide",
+      "address": "Incheon Airport → Seoul citywide",
       "lat": 37.5665,
       "lng": 126.9780,
       "price_range": "90,000–130,000 KRW",
