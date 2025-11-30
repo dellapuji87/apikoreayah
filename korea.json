@@ -598,7 +598,7 @@
       "hours": "08:00-18:00",
       "image": "https://english.visitkorea.or.kr/image/gohun_sa.jpg"
     }
-  ]
+  ],
   "foods": [
     {
       "id": "seoul_1",
@@ -1260,7 +1260,7 @@
       "halal_friendly": true,
       "specialty": "Spicy octopus"
     }
-  ]
+  ],
  "accomodations": [
     {
       "id": "seoul_1",
@@ -1878,12 +1878,7 @@
       "image": "https://english.visitkorea.or.kr/image/fontana_mokpo.jpg",
       "specialty": "Port city location"
     }
-  ]
-   "transportation": [
-   {
-  "api_version": "1.0",
-  "source": "Inspired by VisitKorea Transportation Guide",
-  "total_count": 120,
+  ],
   "transportations": [
     {
       "id": "seoul_1",
@@ -2501,7 +2496,7 @@
       "image": "https://english.visitkorea.or.kr/image/mokpo_jeju_ferry.jpg",
       "specialty": "Fastest to Jeju"
     }
-  ]  
+  ],
   "itineraries": [
     {
       "id": "seoul_1",
@@ -2563,8 +2558,6 @@
       "image": "https://english.visitkorea.or.kr/image/seoul_luxury.jpg",
       "specialty": "Luxury · Michelin"
     },
-
-    // INCHEON
     {
       "id": "incheon_1",
       "title": "Incheon Long Layover 2 Days 1 Night",
@@ -2641,8 +2634,6 @@
       "image": "https://english.visitkorea.or.kr/image/sejong_2d.jpg",
       "specialty": "Modern city · Cycling"
     },
-
-    // SUWON
     {
       "id": "suwon_1",
       "title": "Suwon Hwaseong Fortress 2 Days",
