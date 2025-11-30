@@ -1,16 +1,4 @@
 {
-  "api_version": "1.0",
-  "updated_at": "2025-08-10",
-  "total_attractions": 120,
-  "total_foods": 120,
-  "total_accomodation": 120,
-  "total_transportation": 120,
-
-  "attractions": [
-    {
-  "api_version": "1.0",
-  "source": "Inspired by VisitKorea TourAPI 4.0",
-  "total_count": 120,
   "attractions": [
     {
       "id": "seoul_1",
@@ -1285,11 +1273,6 @@
   ]
 }
  "accomodations": [
-   {
-  "api_version": "1.0",
-  "source": "Inspired by VisitKorea Accommodation Guide",
-  "total_count": 120,
-  "accommodations": [
     {
       "id": "seoul_1",
       "title": "Lotte Hotel Seoul",
@@ -2531,12 +2514,8 @@
       "specialty": "Fastest to Jeju"
     }
   ]
-}
-      "itinerary": [
-      {
-  "api_version": "1.0",
-  "source": "Inspired by VisitKorea Official Travel Planner",
-  "total_count": 120,
+},
+     
   "itineraries": [
     {
       "id": "seoul_1",
@@ -2702,8 +2681,6 @@
       "image": "https://english.visitkorea.or.kr/image/suwon_1day.jpg",
       "specialty": "Day trip"
     },
-
-    // GANGNEUNG
     {
       "id": "gangneung_1",
       "title": "Gangneung Beach & Coffee 4 Days",
@@ -2728,8 +2705,6 @@
       "image": "https://english.visitkorea.or.kr/image/gangneung_winter.jpg",
       "specialty": "Surf · Ski"
     },
-
-    // ANDONG
     {
       "id": "andong_1",
       "title": "Andong Hahoe Village 3 Days",
@@ -2754,8 +2729,6 @@
       "image": "https://english.visitkorea.or.kr/image/andong_2d.jpg",
       "specialty": "Culture"
     },
-
-    // GONGJU
     {
       "id": "gongju_1",
       "title": "Gongju Baekje History 2 Days",
@@ -2780,8 +2753,6 @@
       "image": "https://english.visitkorea.or.kr/image/gongju_buyeo.jpg",
       "specialty": "Ancient capitals"
     },
-
-    // DAECHON (BORYEONG)
     {
       "id": "daechon_1",
       "title": "Daechon Mud Festival 4 Days (July only)",
@@ -2806,8 +2777,6 @@
       "image": "https://english.visitkorea.or.kr/image/daechon_beach.jpg",
       "specialty": "Summer"
     },
-
-    // DAEGU
     {
       "id": "daegu_1",
       "title": "Daegu City & Fashion 4 Days",
@@ -2868,8 +2837,6 @@
       "image": "https://english.visitkorea.or.kr/image/pohang_3d.jpg",
       "specialty": "Coastal"
     },
-
-    // GYEONGJU
     {
       "id": "gyeongju_1",
       "title": "Gyeongju UNESCO 5 Days",
@@ -2942,8 +2909,6 @@
       "image": "https://english.visitkorea.or.kr/image/jeonju_weekend.jpg",
       "specialty": "Weekend"
     },
-
-    // ULSAN
     {
       "id": "ulsan_1",
       "title": "Ulsan Coastal & Industrial 3 Days",
