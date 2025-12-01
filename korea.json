@@ -716,7 +716,7 @@
       "lng": 127.2892,
       "price_range": "12,000 KRW",
       "hours": "11:00-21:00",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.thespruceeats.com%2Fthmb%2FBkVvXMmwY7P7Ah5vpRc2lfh5Tbk%3D%2Fgalbi-tang-short-rib-soup-2118937-hero-01-cffa3f254c2c417b93ef68e46afaa91d.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.koreanbapsang.com%2Fwp-content%2Fuploads%2F2020%2F06%2FDSC1202.jpg",
       "halal_friendly": false,
       "specialty": "Rib soup"
     },
@@ -836,7 +836,7 @@
       "lng": 126.6200,
       "price_range": "8,000 KRW",
       "hours": "07:00-15:00",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fenglish.visitkorea.or.kr%2Fpublic%2Fimages%2Ffoodtrip%2Fk-food-img%2Fimg_kfood_view_219.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fassets.tastemadecdn.net%2Fimages%2F2d7523%2Fce64eb40b5969148f58f%2Fd39e0c.jpg",
       "halal_friendly": true,
       "specialty": "Hangover soup"
     },
@@ -851,7 +851,7 @@
       "lng": 128.6017,
       "price_range": "9,000 KRW",
       "hours": "11:00-20:00",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fenglish.visitkorea.or.kr%2Fpublic%2Fimages%2Ffoodtrip%2Fk-food-img%2Fimg_kfood_view_219.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fi.namu.wiki%2Fi%2F0IKrvdp-6TRvAYkVkpTZXbPl2OoKXNB2ZM4Kb19xNV1DPDu2cdpgxvjkRJBoNilJ-vHI4mrCH8gw0X8GjwZPlA.webp",
       "halal_friendly": true,
       "specialty": "Cold buckwheat noodles"
     },
@@ -881,7 +881,7 @@
       "lng": 129.2267,
       "price_range": "3,000 KRW",
       "hours": "09:00-19:00",
-      "image": "https://wsrv.nl/?url=https%3A%2F%2Fenglish.visitkorea.or.kr%2Fpublic%2Fimages%2Ffoodtrip%2Fk-food-img%2Fimg_kfood_view_387.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fkoreajoongangdaily.joins.com%2Fdata%2Fphoto%2F2025%2F11%2F01%2F09355b4b-4e3b-46b8-abb3-132b9c386c90.jpg",
       "halal_friendly": true,
       "specialty": "Red bean bun"
     },
@@ -1033,7 +1033,7 @@
       "lng": 126.9805,
       "price_range": "350,000-650,000 KRW",
       "hours": "Check-in 15:00 / Check-out 11:00",
-      "image": "https://english.visitkorea.or.kr/image/lotte_hotel_seoul.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Ftong.visitkorea.or.kr%2Fcms%2Fresource%2F56%2F2607356_image2_1.png",
       "specialty": "Executive tower & indoor pool"
     },
     {
@@ -1047,7 +1047,7 @@
       "lng": 126.9750,
       "price_range": "550,000-1,200,000 KRW",
       "hours": "Check-in 15:00 / Check-out 12:00",
-      "image": "https://english.visitkorea.or.kr/image/four_seasons_seoul.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fmedia-cdn.tripadvisor.com%2Fmedia%2Fphoto-s%2F2c%2F36%2F87%2F9a%2Fsko-exterior.jpg",
       "specialty": "Gyeongbokgung view"
     },
     {
@@ -1063,34 +1063,6 @@
       "hours": "Check-in 15:00 / Check-out 12:00",
       "image": "https://english.visitkorea.or.kr/image/shilla_stay_mapo.jpg",
       "specialty": "Subway access & gym"
-    },
-    {
-      "id": "seoul_4",
-      "title": "Ryse Autograph Collection Hongdae",
-      "city": "Seoul",
-      "category": "boutique hotel",
-      "description": "Art-forward lifestyle hotel with rooftop bar and designer interiors.",
-      "address": "130 Yanghwa-ro, Mapo-gu, Seoul",
-      "lat": 37.5572,
-      "lng": 126.9228,
-      "price_range": "280,000-500,000 KRW",
-      "hours": "Check-in 15:00 / Check-out 12:00",
-      "image": "https://english.visitkorea.or.kr/image/ryse_hongdae.jpg",
-      "specialty": "Rooftop bar & art space"
-    },
-    {
-      "id": "seoul_5",
-      "title": "Rakkojae Bukchon Hanok Stay",
-      "city": "Seoul",
-      "category": "hanok stay",
-      "description": "Authentic traditional Korean house with ondol and cultural programs in Bukchon.",
-      "address": "49-23 Gyedong-gil, Jongno-gu, Seoul",
-      "lat": 37.5819,
-      "lng": 126.9847,
-      "price_range": "200,000-400,000 KRW",
-      "hours": "Check-in 15:00 / Check-out 11:00",
-      "image": "https://english.visitkorea.or.kr/image/rakkojae.jpg",
-      "specialty": "Traditional hanok experience"
     },
     {
       "id": "incheon_1",
