@@ -611,7 +611,7 @@
       "lng": 126.9750,
       "price_range": "15,000-20,000 KRW",
       "hours": "11:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/tosokchon_bibimbap.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6f925a_6f26c88f8d4b44059df71ef7f349a590~mv2.jpg",
       "halal_friendly": false,
       "specialty": "Ginseng chicken bibimbap"
     },
@@ -626,7 +626,7 @@
       "lng": 126.9828,
       "price_range": "5,000-8,000 KRW",
       "hours": "10:00-22:00",
-      "image": "https://english.visitkorea.or.kr/image/myeongdong_tteokbokki.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Flivingnomads.com%2Fwp-content%2Fuploads%2F2019%2F07%2F20%2Ftteokbokki-korean-street-foodmyeongdong-food-blogmyeongdong-food-guidemyeongdong-must-eatwhat-to-eat-in-myeongdong-4.jpg",
       "halal_friendly": false,
       "specialty": "Spicy rice cakes"
     },
@@ -641,7 +641,7 @@
       "lng": 126.9800,
       "price_range": "20,000-30,000 KRW",
       "hours": "11:30-23:00",
-      "image": "https://english.visitkorea.or.kr/image/maple_tree_bbq.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTKLeJZy1fpWBu6If7KktkvXX8vB6Tp2BN94A%26s",
       "halal_friendly": false,
       "specialty": "Galbi BBQ"
     },
@@ -656,7 +656,7 @@
       "lng": 126.6283,
       "price_range": "8,000-12,000 KRW",
       "hours": "11:00-22:00",
-      "image": "https://english.visitkorea.or.kr/image/incheon_jjajangmyeon.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTul150EYSRfDBdN0XVMihddMVFUxnIn3UqPg%26s",
       "halal_friendly": false,
       "specialty": "Black bean noodles"
     },
@@ -671,7 +671,7 @@
       "lng": 126.6267,
       "price_range": "15,000 KRW",
       "hours": "12:00-23:00",
-      "image": "https://english.visitkorea.or.kr/image/incheon_jopokbal.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcR5FazYkVZgzMwT1o_owArowjA5sXLmh0k_QQ%26s",
       "halal_friendly": false,
       "specialty": "Pig's feet"
     },
@@ -686,7 +686,7 @@
       "lng": 127.4889,
       "price_range": "9,000 KRW",
       "hours": "10:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/cheongju_sundubu.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQXhpIwyDOksJ55BGsfbimF_jTdsX5Rf5ZW-A%26s",
       "halal_friendly": true,
       "specialty": "Tofu stew"
     },
@@ -701,7 +701,7 @@
       "lng": 127.4717,
       "price_range": "5,000 KRW",
       "hours": "11:00-19:00",
-      "image": "https://english.visitkorea.or.kr/image/cheongju_bindaetteok.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.maangchi.com%2Fwp-content%2Fuploads%2F2015%2F10%2Fmungbean-pancakes.jpg",
       "halal_friendly": false,
       "specialty": "Mung bean pancakes"
     },
@@ -716,24 +716,9 @@
       "lng": 127.2892,
       "price_range": "12,000 KRW",
       "hours": "11:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/sejong_galbitang.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.thespruceeats.com%2Fthmb%2FBkVvXMmwY7P7Ah5vpRc2lfh5Tbk%3D%2Fgalbi-tang-short-rib-soup-2118937-hero-01-cffa3f254c2c417b93ef68e46afaa91d.jpg",
       "halal_friendly": false,
       "specialty": "Rib soup"
-    },
-    {
-      "id": "suwon_1",
-      "title": "Suwon Chicken Street",
-      "city": "Suwon",
-      "category": "street food",
-      "description": "Spicy fried or steamed chicken—local specialty with unique sauce.",
-      "address": "Akseon-ro, Paldal-gu, Suwon",
-      "lat": 37.2639,
-      "lng": 127.0017,
-      "price_range": "10,000 KRW",
-      "hours": "12:00-22:00",
-      "image": "https://english.visitkorea.or.kr/image/suwon_chicken.jpg",
-      "halal_friendly": false,
-      "specialty": "Spicy chicken"
     },
     {
       "id": "suwon_2",
@@ -746,7 +731,7 @@
       "lng": 126.9950,
       "price_range": "8,000 KRW",
       "hours": "07:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/suwon_kongnamul.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcT7ACj_GpzZ8X9RpWM6dyOQ4sfWQHdAFsNPYQ%26s",
       "halal_friendly": true,
       "specialty": "Sprout soup"
     },
@@ -761,7 +746,7 @@
       "lng": 128.9028,
       "price_range": "9,000 KRW",
       "hours": "08:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/gangneung_sundaeguk.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fseoulsearching.net%2Fwp-content%2Fuploads%2F2023%2F12%2F6-IMG_9354.jpg",
       "halal_friendly": false,
       "specialty": "Blood sausage soup"
     },
@@ -776,7 +761,7 @@
       "lng": 128.7200,
       "price_range": "14,000 KRW",
       "hours": "11:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/andong_jjimdak.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F17%2FAndong-jjimdak.jpg",
       "halal_friendly": false,
       "specialty": "Braised chicken"
     },
@@ -791,7 +776,7 @@
       "lng": 128.5033,
       "price_range": "18,000 KRW",
       "hours": "12:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/andong_heotjesabap.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Korean.food-Andong.Hansik-Heotjesabab.jpg",
       "halal_friendly": false,
       "specialty": "Raw beef rice"
     },
@@ -806,7 +791,7 @@
       "lng": 127.1189,
       "price_range": "7,000 KRW",
       "hours": "10:00-19:00",
-      "image": "https://english.visitkorea.or.kr/image/gongju_beotkku.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Korean_noodles-Bibim_guksu-02.jpg/250px-Korean_noodles-Bibim_guksu-02.jpg",
       "halal_friendly": false,
       "specialty": "Beef noodles"
     },
@@ -821,7 +806,7 @@
       "lng": 127.1175,
       "price_range": "12,000 KRW",
       "hours": "11:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/gongju_baekje.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTnch1lblYLDO8TWiLH-VCHzyEiESgX_sUE6w%26s",
       "halal_friendly": false,
       "specialty": "Braised regional"
     },
@@ -836,7 +821,7 @@
       "lng": 126.6167,
       "price_range": "10,000 KRW",
       "hours": "Seasonal 10:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/daechon_seafood.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Ftong.visitkorea.or.kr%2Fcms%2Fresource_etc%2F99%2F3354599_image2_1.jpg",
       "halal_friendly": true,
       "specialty": "Beach BBQ"
     },
@@ -851,7 +836,7 @@
       "lng": 126.6200,
       "price_range": "8,000 KRW",
       "hours": "07:00-15:00",
-      "image": "https://english.visitkorea.or.kr/image/daechon_haejangguk.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fenglish.visitkorea.or.kr%2Fpublic%2Fimages%2Ffoodtrip%2Fk-food-img%2Fimg_kfood_view_219.jpg",
       "halal_friendly": true,
       "specialty": "Hangover soup"
     },
@@ -866,24 +851,9 @@
       "lng": 128.6017,
       "price_range": "9,000 KRW",
       "hours": "11:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/daegu_makguksu.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fenglish.visitkorea.or.kr%2Fpublic%2Fimages%2Ffoodtrip%2Fk-food-img%2Fimg_kfood_view_219.jpg",
       "halal_friendly": true,
       "specialty": "Cold buckwheat noodles"
-    },
-    {
-      "id": "daegu_2",
-      "title": "Eomuk Tang",
-      "city": "Daegu",
-      "category": "street food",
-      "description": "Fish cake soup—street vendor favorite.",
-      "address": "Dongseong-ro, Jung-gu, Daegu",
-      "lat": 35.9500,
-      "lng": 128.6167,
-      "price_range": "6,000 KRW",
-      "hours": "10:00-22:00",
-      "image": "https://english.visitkorea.or.kr/image/daegu_eomuk.jpg",
-      "halal_friendly": true,
-      "specialty": "Fish cake soup"
     },
     {
       "id": "pohang_1",
@@ -896,24 +866,9 @@
       "lng": 129.4000,
       "price_range": "20,000 KRW",
       "hours": "11:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/pohang_hwe.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIPreaNQyuZDzRUo_PfpRDKEkQLmPDs0V6Dg&s",
       "halal_friendly": true,
       "specialty": "Raw fish"
-    },
-    {
-      "id": "pohang_2",
-      "title": "Millmyeon Cold Noodles",
-      "city": "Pohang",
-      "category": "restaurant",
-      "description": "Spicy cold wheat noodles—cooling for hot summers.",
-      "address": "Heunghae-eup, Buk-gu, Pohang",
-      "lat": 36.0333,
-      "lng": 129.3667,
-      "price_range": "8,000 KRW",
-      "hours": "12:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/pohang_millmyeon.jpg",
-      "halal_friendly": true,
-      "specialty": "Cold noodles"
     },
     {
       "id": "gyeongju_1",
@@ -926,24 +881,9 @@
       "lng": 129.2267,
       "price_range": "3,000 KRW",
       "hours": "09:00-19:00",
-      "image": "https://english.visitkorea.or.kr/image/gyeongju_bread.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fenglish.visitkorea.or.kr%2Fpublic%2Fimages%2Ffoodtrip%2Fk-food-img%2Fimg_kfood_view_387.jpg",
       "halal_friendly": true,
       "specialty": "Red bean bun"
-    },
-    {
-      "id": "gyeongju_2",
-      "title": "Kongbok Rice Cake",
-      "city": "Gyeongju",
-      "category": "street food",
-      "description": "Sticky rice cakes with honey—traditional sweet.",
-      "address": "Gyerim-ro, Gyeongju",
-      "lat": 35.7978,
-      "lng": 129.3303,
-      "price_range": "4,000 KRW",
-      "hours": "10:00-18:00",
-      "image": "https://english.visitkorea.or.kr/image/gyeongju_kongbok.jpg",
-      "halal_friendly": true,
-      "specialty": "Rice cakes"
     },
     {
       "id": "jeonju_1",
@@ -956,7 +896,7 @@
       "lng": 127.1475,
       "price_range": "10,000 KRW",
       "hours": "11:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/jeonju_bibimbap.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fenglish.visitkorea.or.kr%2Fpublic%2Fimages%2Ffoodtrip%2Ffoodtrip33%2F12_Bibimbap%2Fbibimbap2.jpg",
       "halal_friendly": true,
       "specialty": "Vegetable mixed rice"
     },
@@ -971,7 +911,7 @@
       "lng": 129.4000,
       "price_range": "8,000 KRW",
       "hours": "07:00-15:00",
-      "image": "https://english.visitkorea.or.kr/image/ulsan_haejangguk.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Korean_soup-Seonjiguk-01.jpg/250px-Korean_soup-Seonjiguk-01.jpg",
       "halal_friendly": false,
       "specialty": "Hangover soup"
     },
@@ -986,7 +926,7 @@
       "lng": 129.3167,
       "price_range": "30,000 KRW",
       "hours": "12:00-22:00",
-      "image": "https://english.visitkorea.or.kr/image/ulsan_whale.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fmedia-cdn.tripadvisor.com%2Fmedia%2Fphoto-s%2F0c%2Fd9%2F5a%2F20%2Fbbq-whale-meat.jpg",
       "halal_friendly": false,
       "specialty": "Whale BBQ"
     },
@@ -1001,7 +941,7 @@
       "lng": 129.0300,
       "price_range": "3,000 KRW",
       "hours": "10:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/busan_ssiat_hotteok.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSy2eF8Mu0zCN27QPvKZ0okiTKrTfnw8dP_CA%26s",
       "halal_friendly": true,
       "specialty": "Seed pancakes"
     },
@@ -1016,7 +956,7 @@
       "lng": 129.2392,
       "price_range": "9,000 KRW",
       "hours": "11:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/busan_milmyeon.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQLc3UNhmezCIKvf2NCbNiD7ajgeNVZpRmamA%26s",
       "halal_friendly": true,
       "specialty": "Spicy cold noodles"
     },
@@ -1031,24 +971,9 @@
       "lng": 128.4333,
       "price_range": "7,000 KRW",
       "hours": "10:00-19:00",
-      "image": "https://english.visitkorea.or.kr/image/tongyeong_eomuk.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.koreanbapsang.com%2Fwp-content%2Fuploads%2F2018%2F01%2FDSC_2743-e1517199141964.jpg",
       "halal_friendly": true,
       "specialty": "Fish cake soup"
-    },
-    {
-      "id": "tongyeong_2",
-      "title": "Seaweed Soup",
-      "city": "Tongyeong",
-      "category": "restaurant",
-      "description": "Miyeok guk with island-fresh seaweed.",
-      "address": "Mireuksan-ro, Tongyeong",
-      "lat": 34.8167,
-      "lng": 128.4167,
-      "price_range": "6,000 KRW",
-      "hours": "11:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/tongyeong_miyeok.jpg",
-      "halal_friendly": true,
-      "specialty": "Seaweed soup"
     },
     {
       "id": "yeosu_1",
@@ -1061,24 +986,9 @@
       "lng": 127.6833,
       "price_range": "10,000 KRW",
       "hours": "12:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/yeosu_mackerel.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQImBQaxZT2fdfkgyh-B9B3FMXGLBunMbuLlg%26s",
       "halal_friendly": true,
       "specialty": "Grilled fish"
-    },
-    {
-      "id": "yeosu_2",
-      "title": "Black Pork BBQ",
-      "city": "Yeosu",
-      "category": "restaurant",
-      "description": "Jeju-style black pork grilled.",
-      "address": "Dolsudong, Yeosu",
-      "lat": 34.7333,
-      "lng": 127.6667,
-      "price_range": "18,000 KRW",
-      "hours": "11:00-22:00",
-      "image": "https://english.visitkorea.or.kr/image/yeosu_black_pork.jpg",
-      "halal_friendly": false,
-      "specialty": "Black pork BBQ"
     },
     {
       "id": "mokpo_1",
@@ -1091,7 +1001,7 @@
       "lng": 126.3833,
       "price_range": "4,000 KRW",
       "hours": "10:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/mokpo_fishcake.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fasset.kompas.com%2Fdata%2Fphoto%2F2023%2F01%2F13%2F63c0a0167a702.jpeg",
       "halal_friendly": true,
       "specialty": "Skewered fish cakes"
     },
@@ -1106,7 +1016,7 @@
       "lng": 126.3667,
       "price_range": "15,000 KRW",
       "hours": "12:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/mokpo_nakalchi.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.maangchi.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fnakjibokkeum.jpg",
       "halal_friendly": true,
       "specialty": "Spicy octopus"
     }
