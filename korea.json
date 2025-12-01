@@ -1553,7 +1553,7 @@
       "lng": 126.9700,
       "price_range": "9,500 KRW (adult one-way)",
       "hours": "First 05:20 / Last 23:40",
-      "image": "https://english.visitkorea.or.kr/image/arex_express.jpg",
+      "image": "https://www.pelago.com/img/products/KR-South%20Korea/arex-incheon-airport-express-train/a41748ed-c5ab-4e51-8f4b-88ff182ab5cb_arex-incheon-airport-express-train-with-lotte-duty-free-discount-voucher.jpg",
       "specialty": "Non-stop, seat reservation available"
     },
     {
@@ -1567,7 +1567,7 @@
       "lng": 126.9828,
       "price_range": "16,000–18,000 KRW",
       "hours": "05:20–22:30 (every 20–30 min)",
-      "image": "https://english.visitkorea.or.kr/image/limousine_6701.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fres.klook.com%2Fimages%2Ffl_lossy.progressive%2Cq_65%2Fc_fill%2Cw_1200%2Ch_630%2Fw_80%2Cx_15%2Cy_15%2Cg_south_west%2Cl_Klook_water_br_trans_yhcmh3%2Factivities%2Fzummaqqf5tmsd8yc6iec%2FTiket%2520Bus%2520Bandara%2520Incheon%2520ke%2520Seoul%2520oleh%2520Korea%2520Airport%2520Limousine%2520(KAL).jpg",
       "specialty": "Luggage space & hotel drop-off"
     },
     {
@@ -1581,36 +1581,8 @@
       "lng": 126.9780,
       "price_range": "90,000–130,000 KRW",
       "hours": "24 hours",
-      "image": "https://english.visitkorea.or.kr/image/kakao_black.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fkoreajoongangdaily.joins.com%2Fjmnet%2Fkoreajoongangdaily%2F_data%2Fphoto%2F2015%2F11%2F13072940.jpg",
       "specialty": "Fixed price, English-speaking driver"
-    },
-    {
-      "id": "seoul_4",
-      "title": "Seoul Subway Line 1–9 Full Network",
-      "city": "Seoul",
-      "category": "subway",
-      "description": "Extensive subway system covering all major districts, 24/7 some lines.",
-      "address": "Seoul Metropolitan Area",
-      "lat": 37.5665,
-      "lng": 126.9780,
-      "price_range": "1,350–2,500 KRW (T-money card)",
-      "hours": "05:30–00:00",
-      "image": "https://english.visitkorea.or.kr/image/seoul_subway.jpg",
-      "specialty": "Cheap & frequent"
-    },
-    {
-      "id": "seoul_5",
-      "title": "KTX Seoul Station → Busan (High-Speed Rail)",
-      "city": "Seoul",
-      "category": "high-speed train",
-      "description": "KTX from Seoul Station or Suseo SRT to Busan in 2h 15min.",
-      "address": "Seoul Station → Busan Station",
-      "lat": 37.5547,
-      "lng": 126.9707,
-      "price_range": "59,800 KRW (standard)",
-      "hours": "05:30–22:50 (every 15–30 min)",
-      "image": "https://english.visitkorea.or.kr/image/ktx_seoul_busan.jpg",
-      "specialty": "2h 15min to Busan"
     },
     {
       "id": "incheon_1",
@@ -1623,7 +1595,7 @@
       "lng": 126.9700,
       "price_range": "4,150–4,950 KRW",
       "hours": "05:18–23:48",
-      "image": "https://english.visitkorea.or.kr/image/arex_allstop.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fwww.theseoulguide.com%2Fwp-content%2Fuploads%2F2022%2F06%2Fairport_railroad_arex_all_stop_train_entrance_seoul_korea.jpg",
       "specialty": "Cheapest airport access"
     },
     {
@@ -1637,22 +1609,8 @@
       "lng": 126.4350,
       "price_range": "Free",
       "hours": "07:30–20:00",
-      "image": "https://english.visitkorea.or.kr/image/maglev_incheon.jpg",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F18%2Fa4%2Fc8%2F14%2Fincheon-airport-maglev.jpg",
       "specialty": "Free & futuristic"
-    },
-    {
-      "id": "incheon_3",
-      "title": "International Ferry Terminal → Wolmido",
-      "city": "Incheon",
-      "category": "ferry",
-      "description": "Ferry to nearby islands and cruise to China routes.",
-      "address": "Coastal Passenger Terminal, Incheon",
-      "lat": 37.4750,
-      "lng": 126.6283,
-      "price_range": "10,000–150,000 KRW",
-      "hours": "Varies by route",
-      "image": "https://english.visitkorea.or.kr/image/incheon_ferry.jpg",
-      "specialty": "Island & China routes"
     },
     {
       "id": "cheongju_1",
