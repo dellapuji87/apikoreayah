@@ -646,36 +646,6 @@
       "specialty": "Galbi BBQ"
     },
     {
-      "id": "seoul_4",
-      "title": "Halal Korean Fried Chicken in Itaewon",
-      "city": "Seoul",
-      "category": "restaurant",
-      "description": "Crispy halal-certified chicken with soy garlic sauce—Muslim-friendly twist on KFC.",
-      "address": "Itaewon-ro, Yongsan-gu, Seoul",
-      "lat": 37.5333,
-      "lng": 126.9939,
-      "price_range": "12,000-18,000 KRW",
-      "hours": "12:00-22:00",
-      "image": "https://english.visitkorea.or.kr/image/itaewon_halal_chicken.jpg",
-      "halal_friendly": true,
-      "specialty": "Halal fried chicken"
-    },
-    {
-      "id": "seoul_5",
-      "title": "Hotteok Pancakes in Insadong",
-      "city": "Seoul",
-      "category": "street food",
-      "description": "Sweet filled pancakes with brown sugar and nuts—winter favorite.",
-      "address": "Insadong-gil, Jongno-gu, Seoul",
-      "lat": 37.5714,
-      "lng": 126.9861,
-      "price_range": "2,000-4,000 KRW",
-      "hours": "10:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/insadong_hotteok.jpg",
-      "halal_friendly": true,
-      "specialty": "Sweet pancakes"
-    },
-    {
       "id": "incheon_1",
       "title": "Jjajangmyeon at Chinatown",
       "city": "Incheon",
@@ -704,21 +674,6 @@
       "image": "https://english.visitkorea.or.kr/image/incheon_jopokbal.jpg",
       "halal_friendly": false,
       "specialty": "Pig's feet"
-    },
-    {
-      "id": "incheon_3",
-      "title": "Seafood Pancakes at Songdo",
-      "city": "Incheon",
-      "category": "restaurant",
-      "description": "Crispy pancakes with fresh squid and green onions.",
-      "address": "Central-ro, Yeonsu-gu, Incheon",
-      "lat": 37.3842,
-      "lng": 126.6475,
-      "price_range": "10,000 KRW",
-      "hours": "11:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/songdo_pajeon.jpg",
-      "halal_friendly": true,
-      "specialty": "Seafood jeon"
     },
     {
       "id": "cheongju_1",
@@ -809,21 +764,6 @@
       "image": "https://english.visitkorea.or.kr/image/gangneung_sundaeguk.jpg",
       "halal_friendly": false,
       "specialty": "Blood sausage soup"
-    },
-    {
-      "id": "gangneung_2",
-      "title": "Hwangtae Hoe",
-      "city": "Gangneung",
-      "category": "street food",
-      "description": "Dried pollack sashimi—fresh seafood from the east sea.",
-      "address": "Chodang-dong, Gangneung",
-      "lat": 37.7533,
-      "lng": 128.8722,
-      "price_range": "15,000 KRW",
-      "hours": "10:00-19:00",
-      "image": "https://english.visitkorea.or.kr/image/gangneung_hwangtae.jpg",
-      "halal_friendly": true,
-      "specialty": "Dried fish sashimi"
     },
     {
       "id": "andong_1",
@@ -946,21 +886,6 @@
       "specialty": "Fish cake soup"
     },
     {
-      "id": "daegu_3",
-      "title": "Jjimdak in Seomun Market",
-      "city": "Daegu",
-      "category": "market",
-      "description": "Braised chicken similar to Andong style.",
-      "address": "Seomun Market, Jung-gu, Daegu",
-      "lat": 35.8711,
-      "lng": 128.6017,
-      "price_range": "13,000 KRW",
-      "hours": "09:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/daegu_jjimdak.jpg",
-      "halal_friendly": false,
-      "specialty": "Braised chicken"
-    },
-    {
       "id": "pohang_1",
       "title": "Raw Fish (Hwe)",
       "city": "Pohang",
@@ -1021,21 +946,6 @@
       "specialty": "Rice cakes"
     },
     {
-      "id": "gyeongju_3",
-      "title": "Silla-Style Royal Cuisine",
-      "city": "Gyeongju",
-      "category": "restaurant",
-      "description": "Reconstructed ancient Silla meals with multiple banchan.",
-      "address": "Exhibition Hall Road, Gyeongju",
-      "lat": 35.7844,
-      "lng": 129.3472,
-      "price_range": "25,000 KRW",
-      "hours": "11:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/gyeongju_silla_cuisine.jpg",
-      "halal_friendly": false,
-      "specialty": "Royal banquet"
-    },
-    {
       "id": "jeonju_1",
       "title": "Bibimbap at Jeonju",
       "city": "Jeonju",
@@ -1049,36 +959,6 @@
       "image": "https://english.visitkorea.or.kr/image/jeonju_bibimbap.jpg",
       "halal_friendly": true,
       "specialty": "Vegetable mixed rice"
-    },
-    {
-      "id": "jeonju_2",
-      "title": "Kongnamul Gukbap",
-      "city": "Jeonju",
-      "category": "restaurant",
-      "description": "Soybean sprout soup with rice—light Jeonju classic.",
-      "address": "Pungnam-mun 2-gil, Wansan-gu, Jeonju",
-      "lat": 35.7172,
-      "lng": 127.1511,
-      "price_range": "7,000 KRW",
-      "hours": "07:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/jeonju_kongnamul.jpg",
-      "halal_friendly": true,
-      "specialty": "Sprout rice soup"
-    },
-    {
-      "id": "jeonju_3",
-      "title": "Makgeolli at Nambu Market",
-      "city": "Jeonju",
-      "category": "market",
-      "description": "Rice wine tasting with fresh pancakes.",
-      "address": "Nambu Market, Wansan-gu, Jeonju",
-      "lat": 35.7150,
-      "lng": 127.1492,
-      "price_range": "5,000 KRW",
-      "hours": "09:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/jeonju_makgeolli.jpg",
-      "halal_friendly": false,
-      "specialty": "Rice wine"
     },
     {
       "id": "ulsan_1",
@@ -1139,36 +1019,6 @@
       "image": "https://english.visitkorea.or.kr/image/busan_milmyeon.jpg",
       "halal_friendly": true,
       "specialty": "Spicy cold noodles"
-    },
-    {
-      "id": "busan_3",
-      "title": "Dwaeji Gukbap",
-      "city": "Busan",
-      "category": "restaurant",
-      "description": "Pork rice soup— hearty port city staple.",
-      "address": "Jagalchihaean-ro, Jung-gu, Busan",
-      "lat": 35.0983,
-      "lng": 129.0300,
-      "price_range": "8,000 KRW",
-      "hours": "07:00-20:00",
-      "image": "https://english.visitkorea.or.kr/image/busan_dwaeji.jpg",
-      "halal_friendly": false,
-      "specialty": "Pork rice soup"
-    },
-    {
-      "id": "busan_4",
-      "title": "Sashimi at Jagalchi",
-      "city": "Busan",
-      "category": "market",
-      "description": "Fresh raw fish straight from the auction.",
-      "address": "Jagalchi Market, Jung-gu, Busan",
-      "lat": 35.0983,
-      "lng": 129.0300,
-      "price_range": "15,000-25,000 KRW",
-      "hours": "05:00-21:00",
-      "image": "https://english.visitkorea.or.kr/image/busan_sashimi.jpg",
-      "halal_friendly": true,
-      "specialty": "Fresh sashimi"
     },
     {
       "id": "tongyeong_1",
